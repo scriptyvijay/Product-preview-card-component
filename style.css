@@ -56,16 +56,16 @@ main {
 
 .right h6 {
 	text-transform: uppercase;
-	letter-spacing: 2px;
-	color: var(--paragraph-color);
 	color: hsl(228, 12%, 48%);
+	letter-spacing: 5px;
+	font-size: 0.8rem;
 }
 
 .right h2 {
-	font-size: 2.2rem;
+	font-size: 2.3rem;
 	font-family: "Fraunces", serif;
-	width: 60%;
-	line-height: 28px;
+	width: 65%;
+	line-height: 30px;
 	color: hsl(212, 21%, 14%);
 }
 
@@ -83,7 +83,7 @@ main {
 	width: 80%;
 }
 
-#price h4 {
+#price h2 {
 	font-size: 2.5rem;
 	font-family: "Fraunces", serif;
 	color: hsl(158, 36%, 37%);
